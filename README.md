@@ -107,7 +107,7 @@ Makefile проекта содержит следующие цели:
 
 | Участник      |            |
 | ------------- | ------------------ |
-| lenwooda, kristofs, ebbenwai | Арифметические операции;<br> Операторы сравнения;<br> Преобразователи;<br> Прочие функции;<br> Тесты к функциям |
+| [lenwooda](https://github.com/llllenivka), [kristofs](https://github.com/BalagurovaA), ebbenwai | Арифметические операции;<br> Операторы сравнения;<br> Преобразователи;<br> Прочие функции;<br> Тесты к функциям |
 | [lemongrb](https://github.com/Shyrasya) | Оператор равенства ==;<br> Умножение, деление decimal на 10;<br> Перевод из decimal в int;<br>Функция is_overflow;<br> Тесты к выполненным функциям|
 
 
